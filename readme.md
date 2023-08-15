@@ -24,5 +24,5 @@ Explore Solutions: Browse folders for different tasks and solutions.
     ├── readme.md <br>
     └── task_3.py <br>
 
-License
+## License
 This repo is under the MIT License. Remember, some solutions could be for proprietary tasks. Use responsibly.
